@@ -36,14 +36,26 @@ A Detailed Schedule provides a clear timeline for task completion.
 Gnatt charts help in visualizing tasks, tracking progress and identifying delays.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+- Lack of Intuitive Understanding in Math Education: Many students struggle to grasp abstract mathematical concepts because traditional teaching methods rely heavily on symbolic representations (equations, formulas) without providing visual or interactive explanations.
+- Limited Accessibility to Visual Learning Tools: While visualizations and animations can greatly enhance understanding, creating them often requires specialized skills (e.g., programming, graphic design) or expensive software, making them inaccessible to many educators and learners.
+
 
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Ensures the solution addresses the root cause, not just symptoms.
 
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+My software is like a "math translator" that turns abstract problems into visual stories. Imagine asking a question about geometry, calculus, or algebra, and instead of just seeing numbers and symbols, you get a dynamic, interactive animation that walks you through the solution step-by-step. It’s designed to make math feel less like a puzzle and more like an intuitive, visual experience, helping learners "see" the concepts behind the equations.
 
 ## 11. What are the main features or functionalities that make your software stand out?
+-- Automated Visualization Generation: The software automatically creates 2D or 3D visualizations or animations based on the input math problem, eliminating the need for manual design.
+-- Interactive Learning: Users can interact with the visualizations (e.g., rotate 3D objects, adjust parameters) to explore concepts dynamically.
+-- Adaptive Explanations: The software tailors visualizations to the user’s level of understanding, providing simpler or more detailed explanations as needed.
+-- Wide Topic Coverage: It supports a broad range of mathematical topics, from basic arithmetic to advanced calculus, geometry, and linear algebra.
 
 ## 12. What data is available regarding the market size and growth potential for your software?
+-- The global e-learning market was valued at approximately $250 billion in 2022 and is expected to grow at a CAGR of 14.6% from 2023 to 2030.
+-- The increasing adoption of digital learning platforms in schools, colleges, and online education providers (e.g., Khan Academy, Coursera) presents a growing market for innovative educational software.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+-- Gamification and Engagement: Incorporating gamified elements (e.g., progress tracking, rewards) can make the software more appealing to younger audiences and align with the trend of making learning fun and interactive.
+-- AI and Machine Learning: Leveraging AI to improve the accuracy and adaptability of visualizations can set your software apart and align with the trend of AI-driven educational tools.
